@@ -1,4 +1,4 @@
-# Julia Scientific Computing Tutorial
+# Julia Tutorial
 
 This repository contains a complete Jupyter notebook introducing the Julia programming language for scientific computing, particularly useful for students and researchers transitioning from Python, MATLAB, or C++.
 
@@ -33,7 +33,6 @@ Pkg.add([
   "CSV",
   "ImageFiltering",
   "TestImages",
-  "ImageShow",
   "CairoMakie",
   "Statistics",
   "Distributions"
