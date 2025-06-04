@@ -1,6 +1,6 @@
 # Julia Tutorial
 
-This repository contains a complete Jupyter notebook introducing the Julia programming language for scientific computing, particularly useful for students and researchers transitioning from Python, MATLAB, or C++.
+This repository contains a complete Jupyter notebook introducing the Julia programming language for scientific computing, particularly useful for students and researchers transitioning from Python, MATLAB, or other language.
 
 ## Contents
 
